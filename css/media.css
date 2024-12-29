@@ -1,0 +1,218 @@
+@media(min-width:320px) and (max-width:767px) {
+    .menu {
+        flex-direction: column;
+        position: absolute;
+        top: 80px;
+        left: 0;
+        right: 0;
+        background-color: #fcb201;
+        padding: 15px 0;
+        z-index: 1;
+    }
+
+    .header-nav {
+        display: block;
+    }
+    .header-praimary:hover {
+        color: #232646;
+    }
+    .menu-list {
+        margin-bottom: 20px;
+    }
+
+    .prev,
+    .next {
+        bottom: 65%;
+    }
+
+        .header-btn {
+            display: none;
+        }
+
+        .menu-nav {
+            position: absolute;
+            right: 10px;
+            top: 40%;
+        }
+
+
+        .bannar-heading {
+            font-size: 25px;
+            line-height: 33px;
+        }
+
+
+        .training-inner {
+            width: 100%;
+        }
+        .training-head-praimary {
+            font-size: 16px;
+            margin-bottom: 20px;
+            font-weight: 500;
+            line-height: 28px;
+            color: #ffffff40;
+        }
+        .training-head-sec {
+            font-weight: 400;
+            font-size: 26px;
+            letter-spacing: 1px;
+            margin-bottom: 30px;
+            line-height: 37px;
+        }
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+        .graduat-inner-lft {
+            flex-basis: 100%;
+        }
+
+        .graduation-inner-rgt {
+            flex-basis: 100%;
+        }
+        .gr-img{
+            padding: 0 20px;
+            width: 50%;
+            margin: 0 auto;
+        }
+        
+        .gr-girl{
+            width: 100%;
+            height: 200px;
+        }
+        .part-1 {
+            margin: 0 auto 25px;
+        }
+
+        .part-2 {
+            margin: 0 auto 25px;
+        }
+
+        .part-3 {
+            margin: 0 auto 25px;
+        }
+
+        .part-4 {
+            margin: 0 auto 25px;
+        }
+
+        .rgt-part-inner {
+            flex-basis: 100%;
+            text-align: center;
+        }
+
+        .rgt-part-inner p {
+            width: 100%;
+        }
+
+
+
+        .abt-inner-1 {
+            flex-basis: 100%;
+        }
+
+        .abt-condent {
+            width: 100%;
+        }
+
+        .abt-img {
+            padding: 0;
+            margin-bottom: 20px;
+
+        }
+
+        .abt-condent {
+            text-align: center;
+        }
+
+
+        .course-inner-1 {
+            flex-basis: 100%;
+        }
+
+        .course-top {
+            flex-direction: column;
+        }
+
+        .course-top-heading {
+            margin-bottom: 25px;
+        }
+
+
+        .our-teacher-top {
+            flex-direction: column;
+        }
+
+        .our-teacher-top-heading {
+            margin-bottom: 25px;
+        }
+
+        .teacher-btm-inner {
+            flex-basis: 100%;
+            margin-bottom: 25px;
+        }
+
+        .footer-inner-1 {
+            flex-basis: 100%;
+            margin: 0 auto 25px;
+        }
+
+
+        .sub-inner-heading{
+            font-size: 36px;
+            font-weight: 400;
+        }
+        .sub-inner-para{
+            width: 80%;
+        }
+        
+
+        .form-block input {
+            width: 250px;
+            height: 25px;
+            margin-bottom: 20px;
+        }
+
+        .form-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .form-primary {
+            position: unset;
+            width: 40px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 35px;
+            font-size: 15px;
+        }
+        
+
+        .aarow-page-up {
+            right: 15px; 
+            bottom: 15px;
+        }
+
+    }
+
+
+    @media(min-width:768px) and (max-width:991px) {}
+
+
+
+
+    @media(min-width:992px) and (max-width:1199px) {}
